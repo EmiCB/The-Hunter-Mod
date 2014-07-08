@@ -1,33 +1,12 @@
-[16:50:10] [main/INFO]: Setting user: Player15
-[16:50:10] [Client thread/INFO]: LWJGL Version: 2.9.0
-[16:50:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[16:50:14] [Sound Library Loader/INFO]: Sound engine started
-[16:50:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:50:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[16:50:14] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:50:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:50:15] [Sound Library Loader/INFO]: Sound engine started
-[16:50:15] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
-[16:53:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
-[16:53:37] [Server thread/INFO]: Generating keypair
-[16:53:37] [Server thread/INFO]: Converting map!
-[16:53:37] [Server thread/INFO]: Scanning folders...
-[16:53:37] [Server thread/INFO]: Total conversion count is 0
-[16:53:37] [Server thread/INFO]: Preparing start region for level 0
-[16:53:38] [Server thread/INFO]: Preparing spawn area: 45%
-[16:53:39] [Server thread/INFO]: Player15[local:E:f5eb1796] logged in with entity id 0 at (-22.5, 64.0, -12.5)
-[16:53:40] [Server thread/INFO]: Player15 joined the game
-[16:53:45] [Server thread/INFO]: Player15 has just earned the achievement [Taking Inventory]
-[16:53:45] [Client thread/INFO]: [CHAT] Player15 has just earned the achievement [Taking Inventory]
-[16:53:48] [Server thread/INFO]: Saving and pausing game...
-[16:53:48] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[16:53:48] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[16:53:48] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[16:53:49] [Server thread/INFO]: Stopping server
-[16:53:49] [Server thread/INFO]: Saving players
-[16:53:49] [Server thread/INFO]: Saving worlds
-[16:53:49] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[16:53:49] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[16:53:49] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[16:53:51] [Client thread/INFO]: Stopping!
+[16:34:05] [main/INFO]: Setting user: Player773
+[16:34:07] [Client thread/INFO]: LWJGL Version: 2.9.0
+[16:34:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[16:34:12] [Sound Library Loader/INFO]: Sound engine started
+[16:34:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:34:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:34:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[16:34:20] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:34:20] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:34:21] [Sound Library Loader/INFO]: Sound engine started
+[16:34:22] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[16:34:56] [Client thread/INFO]: Stopping!
