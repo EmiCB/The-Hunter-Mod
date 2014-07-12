@@ -7,6 +7,8 @@ public class ItemPoisonArrow extends ItemTHM
 	public ItemPoisonArrow()
 	{
 		super();
+		this.setUnlocalizedName("poisonArrow");
 		LogHelper.info("ItemPoisonArrow");
 	}
+
 }
