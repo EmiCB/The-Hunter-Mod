@@ -1,0 +1,17 @@
+package com.emicb.thehuntermod.item.init;
+
+import com.emicb.thehuntermod.item.ItemPoisonArrow;
+import com.emicb.thehuntermod.item.ItemTHM;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems 
+{
+	
+	public static final ItemTHM poisonArrow = new ItemPoisonArrow();
+	
+	public static void init()
+	{
+		GameRegistry.registerItem(poisonArrow, "Poison Arrow");
+	}
+}
