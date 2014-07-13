@@ -1,60 +1,34 @@
-[14:32:05] [main/INFO]: Setting user: Player591
-[14:32:06] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:32:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:32:10] [Sound Library Loader/INFO]: Sound engine started
-[14:32:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:32:10] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:32:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:32:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:32:10] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:32:11] [Sound Library Loader/INFO]: Sound engine started
-[14:32:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[14:32:17] [Server thread/INFO]: Generating keypair
-[14:32:18] [Server thread/INFO]: Preparing start region for level 0
-[14:32:18] [Server thread/INFO]: Changing view distance to 12, from 10
-[14:32:19] [Server thread/INFO]: Player591[local:E:fbf2ab3e] logged in with entity id 90 at (-13.539609711450673, 65.0, -12.417355740753202)
-[14:32:19] [Server thread/INFO]: Player591 joined the game
-[14:32:45] [Server thread/INFO]: Player591 has just earned the achievement [Taking Inventory]
-[14:32:45] [Client thread/INFO]: [CHAT] Player591 has just earned the achievement [Taking Inventory]
-[14:33:19] [Client thread/INFO]: [CHAT] That player cannot be found
-[14:33:39] [Server thread/INFO]: [Player591: Given [Poison Arrow] * 64 to Player591]
-[14:33:39] [Client thread/INFO]: [CHAT] Given [Poison Arrow] * 64 to Player591
-[14:33:54] [Server thread/INFO]: Saving and pausing game...
-[14:33:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[14:33:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[14:33:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[14:33:56] [Client thread/INFO]: Stopping!
-[14:33:56] [Server thread/INFO]: Stopping server
-[14:33:56] [Server thread/INFO]: Saving players
-[14:33:56] [Server thread/INFO]: Saving worlds
-[14:33:56] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[14:33:56] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[14:33:56] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[14:36:36] [main/INFO]: Setting user: Player655
-[14:36:38] [Client thread/INFO]: LWJGL Version: 2[14:36[14:36:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:36:44] [Sound Library Loader/INFO]: Sound engine started
-[14:36:45] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:36:45] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:36:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:36:46] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[14:36:46] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:36:46] [Sound Library Loader/INFO]: Sound engine started
-[14:37:34] [Client thread/INFO]: Stopping!
-ted
-[14:36:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[14:36:49] [Server thread/INFO]: Generating keypair
-[14:36:50] [Server thread/INFO]: Preparing start region for level 0
-[14:36:50] [Server thread/INFO]: Changing view distance to 12, from 10
-[14:36:51] [Server thread/INFO]: Player532[local:E:8eef9954] logged in with entity id 69 at (-15.467879021306361, 65.0, -10.867940823294788)
-[14:36:51] [Server thread/INFO]: Player532 joined the game
-[14:37:30] [Server thread/INFO]: Saving and pausing game...
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[14:37:30] [Server thread/INFO]: Stopping server
-[14:37:30] [Server thread/INFO]: Saving players
-[14:37:30] [Server thread/INFO]: Saving worlds
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[14:37:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[14:37:32] [Client thread/INFO]: Stopping!
+[11:02:48] [main/INFO]: Setting user: Player457
+[11:02:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:02:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[11:02:54] [Sound Library Loader/INFO]: Sound engine started
+[11:02:55] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[11:02:56] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[11:02:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[11:02:56] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[11:02:56] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[11:02:57] [Sound Library Loader/INFO]: Sound engine started
+[11:03:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:03:02] [Server thread/INFO]: Generating keypair
+[11:03:02] [Server thread/INFO]: Preparing start region for level 0
+[11:03:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:03:03] [Server thread/INFO]: Player457[local:E:168c5d1e] logged in with entity id 70 at (-15.199617452423436, 65.0, -12.215795941861865)
+[11:03:03] [Server thread/INFO]: Player457 joined the game
+[11:03:10] [Server thread/INFO]: Player457 has just earned the achievement [Taking Inventory]
+[11:03:10] [Client thread/INFO]: [CHAT] Player457 has just earned the achievement [Taking Inventory]
+[11:03:31] [Client thread/INFO]: [CHAT] There is no such item with ID foliage
+[11:03:42] [Client thread/INFO]: [CHAT] There is no such item with ID blockfoliage
+[11:03:47] [Client thread/INFO]: [CHAT] There is no such item with ID Foliage
+[11:03:58] [Server thread/INFO]: [Player457: Given [Foliage] * 1 to Player457]
+[11:03:59] [Client thread/INFO]: [CHAT] Given [Foliage] * 1 to Player457
+[11:06:16] [Server thread/INFO]: Saving and pausing game...
+[11:06:16] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[11:06:16] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[11:06:16] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[11:06:17] [Server thread/INFO]: Stopping server
+[11:06:17] [Server thread/INFO]: Saving players
+[11:06:17] [Server thread/INFO]: Saving worlds
+[11:06:17] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[11:06:17] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[11:06:17] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[11:06:20] [Client thread/INFO]: Stopping!

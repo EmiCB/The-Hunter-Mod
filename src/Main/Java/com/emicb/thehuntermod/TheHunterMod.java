@@ -1,6 +1,7 @@
 package com.emicb.thehuntermod;
 
 import com.emicb.thehuntermod.handler.ConfigurationHandler;
+import com.emicb.thehuntermod.item.init.ModBlocks;
 import com.emicb.thehuntermod.item.init.ModItems;
 import com.emicb.thehuntermod.proxy.IProxy;
 import com.emicb.thehuntermod.proxy.reference.Reference;
@@ -28,6 +29,8 @@ public class TheHunterMod
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 		
 		ModItems.init();
+		
+		ModBlocks.init();
 	}
 	
 	@Mod.EventHandler
