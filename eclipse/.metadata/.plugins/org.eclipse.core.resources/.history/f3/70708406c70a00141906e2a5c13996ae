@@ -10,6 +10,6 @@ public class BlockFoliage extends BlockTHM
 	{
 		super(Material.leaves);
 		this.setBlockName("foliage");
-		this.setHardness(.3f);
+		this.setHardness(.6f);
 	}
 }

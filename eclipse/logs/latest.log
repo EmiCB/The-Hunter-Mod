@@ -1,10 +1,38 @@
-[14:38:46] [main/INFO]: Setting user: Player545
-[14:38:47] [Client thread/INFO]: LWJGL Version: 2.9.1
-[14:38:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:38:51] [Sound Library Loader/INFO]: Sound engine started
-[14:38:52] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[14:38:52] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:38:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[14:38:52] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[14:38:52] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[14:38:53] [Sound Library Loader/INFO]: Sound engine started
+[14:48:49] [main/INFO]: Setting user: Player619
+[14:48:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:48:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[14:48:54] [Sound Library Loader/INFO]: Sound engine started
+[14:48:55] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[14:48:55] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[14:48:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[14:48:55] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[14:48:55] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[14:48:56] [Sound Library Loader/INFO]: Sound engine started
+[14:49:01] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:49:01] [Server thread/INFO]: Generating keypair
+[14:49:02] [Server thread/INFO]: Preparing start region for level 0
+[14:49:02] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:49:03] [Server thread/INFO]: Player619[local:E:6c09bc5f] logged in with entity id 79 at (-30.201899000156097, 64.0, -12.59362830192042)
+[14:49:03] [Server thread/INFO]: Player619 joined the game
+[14:49:03] [Server thread/INFO]: Saving and pausing game...
+[14:49:03] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[14:49:03] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[14:49:03] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[14:49:52] [Server thread/INFO]: [Player619: Set own game mode to Survival Mode]
+[14:49:53] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:50:27] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[14:50:28] [Server thread/INFO]: Player619 has just earned the achievement [Taking Inventory]
+[14:50:28] [Client thread/INFO]: [CHAT] Player619 has just earned the achievement [Taking Inventory]
+[14:50:35] [Server thread/INFO]: [Player619: Set own game mode to Creative Mode]
+[14:50:35] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:50:44] [Server thread/INFO]: Saving and pausing game...
+[14:50:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[14:50:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[14:50:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[14:50:46] [Server thread/INFO]: Stopping server
+[14:50:46] [Server thread/INFO]: Saving players
+[14:50:46] [Server thread/INFO]: Saving worlds
+[14:50:46] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[14:50:46] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[14:50:46] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[14:50:51] [Client thread/INFO]: Stopping!
