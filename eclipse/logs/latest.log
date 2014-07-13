@@ -1,39 +1,10 @@
-[11:57:27] [main/INFO]: Setting user: Player78
-[11:57:28] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:57:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[11:57:31] [Sound Library Loader/INFO]: Sound engine started
-[11:57:32] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[11:57:32] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[11:57:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[11:57:32] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[11:57:32] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[11:57:33] [Sound Library Loader/INFO]: Sound engine started
-[11:57:38] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[11:57:38] [Server thread/INFO]: Generating keypair
-[11:57:38] [Server thread/INFO]: Preparing start region for level 0
-[11:57:39] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:57:39] [Server thread/INFO]: Player78[local:E:4ecb190c] logged in with entity id 79 at (-15.128715508920239, 65.0, -10.033294398963879)
-[11:57:39] [Server thread/INFO]: Player78 joined the game
-[11:58:19] [Server thread/INFO]: Player78 has just earned the achievement [Taking Inventory]
-[11:58:19] [Client thread/INFO]: [CHAT] Player78 has just earned the achievement [Taking Inventory]
-[11:58:58] [Server thread/INFO]: [Player78: Set own game mode to Survival Mode]
-[11:58:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[11:59:03] [Server thread/INFO]: [Player78: Set own game mode to Creative Mode]
-[11:59:03] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[11:59:21] [Server thread/INFO]: [Player78: Set own game mode to Survival Mode]
-[11:59:21] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[11:59:47] [Server thread/INFO]: [Player78: Set own game mode to Creative Mode]
-[11:59:47] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[12:02:29] [Server thread/INFO]: [Player78: Set the time to 0]
-[12:02:29] [Client thread/INFO]: [CHAT] Set the time to 0
-[12:06:40] [Server thread/INFO]: Saving and pausing game...
-[12:06:40] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[12:06:40] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[12:06:40] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[12:06:41] [Server thread/INFO]: Stopping server
-[12:06:41] [Server thread/INFO]: Saving players
-[12:06:41] [Server thread/INFO]: Saving worlds
-[12:06:41] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[12:06:41] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[12:06:41] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[12:06:43] [Client thread/INFO]: Stopping!
+[14:38:46] [main/INFO]: Setting user: Player545
+[14:38:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:38:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[14:38:51] [Sound Library Loader/INFO]: Sound engine started
+[14:38:52] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[14:38:52] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[14:38:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[14:38:52] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[14:38:52] [Client thread/INFO]: Created: 512x256 textures/items-atlas
+[14:38:53] [Sound Library Loader/INFO]: Sound engine started

@@ -1,5 +1,6 @@
 package com.emicb.thehuntermod.block;
 
+import com.emicb.thehuntermod.creativetab.CreativeTabTHM;
 import com.emicb.thehuntermod.proxy.reference.Reference;
 
 import cpw.mods.fml.relauncher.Side;
@@ -13,6 +14,8 @@ public class BlockTHM extends Block
 	public BlockTHM(Material material)
 	{
 		super(material);
+		//This sets the creative tab
+		this.setCreativeTab(CreativeTabTHM.THM_TAB);
 	}
 	
 	// Makes the general block out of rock

@@ -1,5 +1,6 @@
 package com.emicb.thehuntermod.item;
 
+import com.emicb.thehuntermod.creativetab.CreativeTabTHM;
 import com.emicb.thehuntermod.proxy.reference.Reference;
 import com.emicb.thehuntermod.proxy.utility.LogHelper;
 
@@ -14,6 +15,8 @@ public class ItemTHM extends Item
 	public ItemTHM()
 	{
 		super();
+		//This sets the creative tab
+		this.setCreativeTab(CreativeTabTHM.THM_TAB);
 		LogHelper.info("Item wrapper");
 	}
 	
