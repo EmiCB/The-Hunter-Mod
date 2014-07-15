@@ -1,8 +1,0 @@
-package com.emicb.thehuntermod;
-
-import cpw.mods.fml.common.Mod;
-
-@Mod(modid="TheHunterMod", name="The Hunter Mod", version="1.7.2-1.0")
-public class TheHunterMod
-{
-}

@@ -30,4 +30,5 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.init.ModBlocks"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.proxy.reference.Reference"/>
+<fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemCamoHelmet"/>
 </qualifiedTypeNameHistroy>
