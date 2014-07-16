@@ -1,34 +1,42 @@
-[10:41:28] [main/INFO]: Logging in with username & password
-[10:41:30] [main/INFO]: Setting user: EmiCB
-[10:41:31] [Client thread/INFO]: LWJGL Version: 2.9.1
-[10:41:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[10:41:35] [Sound Library Loader/INFO]: Sound engine started
-[10:41:36] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[10:41:36] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[10:41:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
-[10:41:36] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[10:41:36] [Client thread/INFO]: Created: 512x512 textures/items-atlas
-[10:41:37] [Sound Library Loader/INFO]: Sound engine started
-[10:41:41] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[10:41:41] [Server thread/INFO]: Generating keypair
-[10:41:41] [Server thread/INFO]: Preparing start region for level 0
-[10:41:42] [Server thread/INFO]: Changing view distance to 12, from 10
-[10:41:42] [Server thread/INFO]: EmiCB[local:E:4246c57a] logged in with entity id 91 at (-24.84210632183388, 65.79014398064838, -13.437884862626234)
-[10:41:42] [Server thread/INFO]: EmiCB joined the game
-[10:41:42] [Server thread/INFO]: Saving and pausing game...
-[10:41:42] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[10:41:42] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[10:41:42] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[10:41:45] [Server thread/INFO]: <EmiCB> hi
-[10:41:45] [Client thread/INFO]: [CHAT] <EmiCB> hi
-[10:41:47] [Server thread/INFO]: Saving and pausing game...
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[10:41:47] [Server thread/INFO]: Stopping server
-[10:41:47] [Server thread/INFO]: Saving players
-[10:41:47] [Server thread/INFO]: Saving worlds
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
-[10:41:47] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
-[10:41:49] [Client thread/INFO]: Stopping!
+[12:42:58] [main/INFO]: Logging in with username & password
+[12:43:01] [main/INFO]: Setting user: EmiCB
+[12:43:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:43:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[12:43:06] [Sound Library Loader/INFO]: Sound engine started
+[12:43:07] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[12:43:07] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[12:43:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Hunter Mod
+[12:43:07] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[12:43:07] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[12:43:08] [Sound Library Loader/INFO]: Sound engine started
+[12:43:12] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:43:12] [Server thread/INFO]: Generating keypair
+[12:43:12] [Server thread/INFO]: Preparing start region for level 0
+[12:43:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:43:13] [Server thread/INFO]: EmiCB[local:E:a70c66d7] logged in with entity id 89 at (-36.611504602642704, 65.79014398064838, -13.392231262073404)
+[12:43:13] [Server thread/INFO]: EmiCB joined the game
+[12:43:13] [Server thread/INFO]: Saving and pausing game...
+[12:43:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[12:43:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[12:43:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[12:43:15] [Server thread/INFO]: EmiCB has just earned the achievement [Taking Inventory]
+[12:43:15] [Client thread/INFO]: [CHAT] EmiCB has just earned the achievement [Taking Inventory]
+[12:47:52] [Server thread/INFO]: Saving and pausing game...
+[12:47:52] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[12:47:52] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[12:47:52] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[12:47:54] [Server thread/INFO]: Saving and pausing game...
+[12:47:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[12:47:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[12:47:54] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[12:48:44] [Server thread/INFO]: Saving and pausing game...
+[12:48:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[12:48:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[12:48:44] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[12:48:45] [Server thread/INFO]: Stopping server
+[12:48:45] [Server thread/INFO]: Saving players
+[12:48:45] [Server thread/INFO]: Saving worlds
+[12:48:45] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Overworld
+[12:48:45] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/Nether
+[12:48:45] [Server thread/INFO]: Saving chunks for level 'Mod Testing'/The End
+[12:48:47] [Client thread/INFO]: Stopping!

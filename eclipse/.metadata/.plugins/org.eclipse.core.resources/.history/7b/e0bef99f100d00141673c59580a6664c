@@ -1,7 +1,6 @@
 package com.emicb.thehuntermod;
 
 import net.minecraft.init.Items;
-
 import net.minecraft.item.ItemPotion;
 import net.minecraft.item.ItemStack;
 
@@ -43,10 +42,7 @@ public class TheHunterMod
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event)
 	{
-		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.poisonArrow), new Object[]
-				{
-					new ItemStack(Items.potionitem,1,8196), Items.arrow
-				});
+		
 	}
 
 
