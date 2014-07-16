@@ -1,5 +1,9 @@
 package com.emicb.thehuntermod;
 
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemPotion;
+import net.minecraft.item.ItemStack;
+
 import com.emicb.thehuntermod.handler.ConfigurationHandler;
 import com.emicb.thehuntermod.item.init.ModBlocks;
 import com.emicb.thehuntermod.item.init.ModItems;
@@ -12,6 +16,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.registry.GameRegistry;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
 public class TheHunterMod
@@ -33,11 +38,14 @@ public class TheHunterMod
 		ModBlocks.init();
 	}
 	
+	
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event)
 	{
 		
 	}
+
+
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event)
 	{
