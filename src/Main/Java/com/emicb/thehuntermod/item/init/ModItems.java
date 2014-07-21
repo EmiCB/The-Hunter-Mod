@@ -14,7 +14,6 @@ public class ModItems
 	
 	public static final ItemTHM poisonArrow = new ItemPoisonArrow();
 	public static final ItemTHM camoHelmet = new ItemCamoHelmet();
-	
 	public static void init()
 	{
 		GameRegistry.registerItem(poisonArrow, "Poison_Arrow");

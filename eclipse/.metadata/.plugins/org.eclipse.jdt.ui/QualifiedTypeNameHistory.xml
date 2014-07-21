@@ -13,7 +13,6 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
-<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemTHM"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemPoisonArrow"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.proxy.utility.LogHelper"/>
@@ -32,4 +31,8 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Items"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemCamoArmor"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor.ArmorMaterial"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
 </qualifiedTypeNameHistroy>

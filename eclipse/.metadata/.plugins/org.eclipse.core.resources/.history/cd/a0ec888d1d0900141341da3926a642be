@@ -1,9 +1,0 @@
-package com.emicb.thehuntermod.item;
-
-public class ItemPoisonArrow extends ItemTHM
-{
-	public ItemPoisonArrow()
-	{
-		super();
-	}
-}

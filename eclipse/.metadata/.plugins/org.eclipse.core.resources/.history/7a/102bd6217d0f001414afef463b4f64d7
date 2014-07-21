@@ -1,0 +1,15 @@
+package com.emicb.thehuntermod.item;
+
+import com.emicb.thehuntermod.creativetab.CreativeTabTHM;
+
+import net.minecraft.item.Item;
+
+public class ItemCamoArmor extends Item
+{
+	public ItemCamoArmor()
+	{
+		super();
+		this.setCreativeTab(CreativeTabTHM.THM_TAB);
+		this.setUnlocalizedName("camoArmor");
+	}
+}

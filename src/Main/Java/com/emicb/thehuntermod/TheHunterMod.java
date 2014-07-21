@@ -1,12 +1,13 @@
 package com.emicb.thehuntermod;
 
+import net.minecraft.block.BlockLeavesBase;
 import net.minecraft.init.Items;
-
 import net.minecraft.item.ItemPotion;
 import net.minecraft.item.ItemStack;
 
+import com.emicb.thehuntermod.block.BlockFoliage;
 import com.emicb.thehuntermod.handler.ConfigurationHandler;
-import com.emicb.thehuntermod.item.init.ModBlocks;
+//import com.emicb.thehuntermod.item.init.ModBlocks;
 import com.emicb.thehuntermod.item.init.ModItems;
 import com.emicb.thehuntermod.proxy.IProxy;
 import com.emicb.thehuntermod.proxy.reference.Reference;
@@ -36,7 +37,10 @@ public class TheHunterMod
 		
 		ModItems.init();
 		
-		ModBlocks.init();
+		//ModBlocks.init();
+		
+		BlockLeavesBase foliage = new BlockFoliage();
+		GameRegistry.registerBlock(foliage, "foliage");
 	}
 	
 	
