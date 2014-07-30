@@ -4,9 +4,12 @@ import net.minecraft.block.BlockLeavesBase;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemPotion;
 import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
 
 import com.emicb.thehuntermod.block.BlockFoliage;
 import com.emicb.thehuntermod.handler.ConfigurationHandler;
+import com.emicb.thehuntermod.item.ItemPoisonArrow;
+import com.emicb.thehuntermod.item.ItemTHM;
 //import com.emicb.thehuntermod.item.init.ModBlocks;
 import com.emicb.thehuntermod.item.init.ModItems;
 import com.emicb.thehuntermod.proxy.IProxy;
@@ -18,6 +21,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.registry.EntityRegistry;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
@@ -41,6 +45,7 @@ public class TheHunterMod
 		
 		BlockLeavesBase foliage = new BlockFoliage();
 		GameRegistry.registerBlock(foliage, "foliage");
+		
 	}
 	
 	

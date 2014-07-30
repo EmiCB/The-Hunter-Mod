@@ -349,3 +349,93 @@
 [11:29:36] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [11:29:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [11:29:36] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:22:32] [main/INFO] [GradleStart]: password: snake2002
+[10:22:32] [main/INFO] [GradleStart]: userProperties: {}
+[10:22:32] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[10:22:32] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[10:22:32] [main/INFO] [GradleStart]: accessToken: FML
+[10:22:32] [main/INFO] [GradleStart]: version: 1.6
+[10:22:32] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[10:22:32] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[10:22:32] [main/INFO] [GradleStart]: Extra: []
+[10:22:32] [main/INFO] [GradleStart]: Password found, attempting login
+[10:22:33] [main/INFO] [GradleStart]: Login Succesful!
+[10:22:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, 622eac77fc0042b2b5f54926d1773510, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[10:22:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:22:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:22:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:51:51] [main/INFO] [GradleStart]: password: snake2002
+[19:51:51] [main/INFO] [GradleStart]: userProperties: {}
+[19:51:51] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[19:51:51] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[19:51:51] [main/INFO] [GradleStart]: accessToken: FML
+[19:51:51] [main/INFO] [GradleStart]: version: 1.6
+[19:51:51] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[19:51:51] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[19:51:51] [main/INFO] [GradleStart]: Extra: []
+[19:51:51] [main/INFO] [GradleStart]: Password found, attempting login
+[19:51:52] [main/INFO] [GradleStart]: Login Succesful!
+[19:51:52] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, c77752bd36ec48669b6e9be1b67cd810, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[19:51:52] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:51:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:51:52] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:56] [main/INFO] [GradleStart]: password: snake2002
+[15:03:56] [main/INFO] [GradleStart]: userProperties: {}
+[15:03:56] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[15:03:56] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[15:03:56] [main/INFO] [GradleStart]: accessToken: FML
+[15:03:56] [main/INFO] [GradleStart]: version: 1.6
+[15:03:56] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:56] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[15:03:56] [main/INFO] [GradleStart]: Extra: []
+[15:03:56] [main/INFO] [GradleStart]: Password found, attempting login
+[15:03:57] [main/INFO] [GradleStart]: Login Succesful!
+[15:03:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, 3127e9c5de9f4da2925b8f609479f42a, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[15:03:57] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:57] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:04:30] [main/INFO] [GradleStart]: password: snake2002
+[15:04:30] [main/INFO] [GradleStart]: userProperties: {}
+[15:04:30] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[15:04:30] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[15:04:30] [main/INFO] [GradleStart]: accessToken: FML
+[15:04:30] [main/INFO] [GradleStart]: version: 1.6
+[15:04:30] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[15:04:30] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[15:04:30] [main/INFO] [GradleStart]: Extra: []
+[15:04:30] [main/INFO] [GradleStart]: Password found, attempting login
+[15:04:31] [main/INFO] [GradleStart]: Login Succesful!
+[15:04:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, 108d81fb4a244ffe98f35e34e557730f, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[15:04:31] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:04:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:04:31] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:11:16] [main/INFO] [GradleStart]: password: snake2002
+[15:11:16] [main/INFO] [GradleStart]: userProperties: {}
+[15:11:16] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[15:11:16] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[15:11:16] [main/INFO] [GradleStart]: accessToken: FML
+[15:11:16] [main/INFO] [GradleStart]: version: 1.6
+[15:11:16] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[15:11:16] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[15:11:16] [main/INFO] [GradleStart]: Extra: []
+[15:11:16] [main/INFO] [GradleStart]: Password found, attempting login
+[15:11:17] [main/INFO] [GradleStart]: Login Succesful!
+[15:11:17] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, 7441c019e5a149e69ed68943a4bac50f, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[15:11:17] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:11:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:11:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:29] [main/INFO] [GradleStart]: password: snake2002
+[19:53:29] [main/INFO] [GradleStart]: userProperties: {}
+[19:53:29] [main/INFO] [GradleStart]: assetsDir: C:\Users\user\.gradle\caches\minecraft\assets
+[19:53:29] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[19:53:29] [main/INFO] [GradleStart]: accessToken: FML
+[19:53:29] [main/INFO] [GradleStart]: version: 1.6
+[19:53:29] [main/INFO] [GradleStart]: tweakClass: cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:29] [main/INFO] [GradleStart]: username: emibrown55+minecraft@gmail.com
+[19:53:29] [main/INFO] [GradleStart]: Extra: []
+[19:53:29] [main/INFO] [GradleStart]: Password found, attempting login
+[19:53:30] [main/INFO] [GradleStart]: Login Succesful!
+[19:53:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\user\.gradle\caches\minecraft\assets, --assetIndex, 1.7.10, --accessToken, b0bf5ed60e2d4bffa992ebe680d68ea0, --version, 1.6, --uuid, 71e50ab3971c47d8875e5f93957e84e5, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --username, EmiCB]
+[19:53:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:53:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

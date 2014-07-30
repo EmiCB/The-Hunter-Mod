@@ -1,0 +1,17 @@
+package com.emicb.thehuntermod.entity;
+
+import com.emicb.thehuntermod.proxy.utility.LogHelper;
+
+import net.minecraft.entity.IProjectile;
+import net.minecraft.entity.projectile.EntityArrow;
+import net.minecraft.world.World;
+
+public class EntityPoisonArrow extends EntityArrow implements IProjectile
+{
+	public void EntityPoisonArrow(World world)
+	{
+		super(world);
+		this.setUnlocalizedName("shootPoisonArrow");
+		LogHelper.info("EntityPoisonArrow");
+	}
+}

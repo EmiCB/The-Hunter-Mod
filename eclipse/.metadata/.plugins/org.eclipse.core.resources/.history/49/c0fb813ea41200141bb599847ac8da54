@@ -1,0 +1,20 @@
+package com.emicb.thehuntermod.proxy;
+
+import net.minecraft.client.renderer.entity.RenderArrow;
+
+import com.emicb.thehuntermod.TheHunterMod;
+import com.emicb.thehuntermod.entity.EntityPoisonArrow;
+import com.emicb.thehuntermod.proxy.reference.Reference;
+import com.emicb.thehuntermod.item.ItemPoisonArrow;
+
+import cpw.mods.fml.client.registry.RenderingRegistry;
+
+public class ClientProxy extends CommonProxy
+{
+	@Override
+	public void registerRenderers()
+	{
+		RenderingRegistry.registerEntityRenderingHandler(EntityPoisonArrow.class, new RenderArrow(TheHunterMod.poisonArrow));
+	}
+
+}
