@@ -26,13 +26,10 @@
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.block.BlockTHM"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.init.ModBlocks"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemCamoHelmet"/>
-<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.item.ItemCamoArmor"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemArmor.ArmorMaterial"/>
 <fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
 <fullyQualifiedTypeName name="net.minecraft.block.BlockLeavesBase"/>
 <fullyQualifiedTypeName name="com.emicb.thehuntermod.block.BlockFoliage"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.registry.EntityRegistry"/>
@@ -43,4 +40,8 @@
 <fullyQualifiedTypeName name="net.minecraft.world.World"/>
 <fullyQualifiedTypeName name="net.minecraft.entity.projectile.EntityArrow"/>
 <fullyQualifiedTypeName name="net.minecraft.entity.IProjectile"/>
+<fullyQualifiedTypeName name="com.emicb.thehuntermod.item.init.Recipes"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Items"/>
 </qualifiedTypeNameHistroy>

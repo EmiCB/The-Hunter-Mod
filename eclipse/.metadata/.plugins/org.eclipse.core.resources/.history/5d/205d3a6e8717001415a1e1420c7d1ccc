@@ -12,7 +12,6 @@ import com.emicb.thehuntermod.item.ItemPoisonArrow;
 import com.emicb.thehuntermod.item.ItemTHM;
 //import com.emicb.thehuntermod.item.init.ModBlocks;
 import com.emicb.thehuntermod.item.init.ModItems;
-import com.emicb.thehuntermod.item.init.Recipes;
 import com.emicb.thehuntermod.proxy.IProxy;
 import com.emicb.thehuntermod.proxy.reference.Reference;
 
@@ -53,11 +52,10 @@ public class TheHunterMod
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event)
 	{
-		Recipes.init();
-		
-		/*
-		  
-		*/
+		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.poisonArrow), new Object[]
+				{
+					new ItemStack(Items.potionitem,1,8196), Items.arrow
+				});
 	}
 
 
